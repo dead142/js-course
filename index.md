@@ -14,5 +14,5 @@
 ### Оглавление
 1. [[Введение](#)]
 2. [[Софт и правила работы](/soft.md)]
-3. [[Типы данных](/1_data_types/1.1_lecture.md)] [[Задачи](/1_data_types/1.1_lecture.md)]
+3. [[Типы данных](/1_data_types/lectures/1.1_lecture.md)] [[Задачи](/1_data_types/tasks/1.1_tasks.md)]
  
